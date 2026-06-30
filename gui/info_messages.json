@@ -1,0 +1,4 @@
+{ "sheet_selector": { "title": "Sheet Selector – Help", "message": "Select the sheet from your source Excel file that contains the data you want to transform.\n\nCountries:\n• Bolivia\t\t-> \n• Chile\t\t->\tBASE \n• Colombia\t->\tData \n• Ecuador\t->\tMV-Frcst \n• Peru\t\t->\tData" }, 
+
+
+"main_window": { "title": "Data Transformer – Help", "message": "Settings for Countries:\n\nBolivia\t\t->\t \n\nChile\t\t->\tHeader Row Index: 8\tModel: Familia\tTrim: Version Simple\tParam: Ratio\n\nColombia\t->\tHeader Row Index: 1\tModel: Modelo\tTrim: Version\t\tParam: Ratio\n\nEcuador\t\t->\tHeader Row Index: 7\tModel: Familia\tTrim: Modelo/Version\tParam: Factor\n\nPeru\t\t->\tHeader Row Index: 1\tModel: Familia\tTrim: Version\t\tParam: Ratio" } }
